@@ -1,4 +1,4 @@
-,accurancy,response_time,set_size,response_type,cue_type,subject,exp_type
+,correct_rate,response_time,set_size,response_type,cue_type,subject,exp_type
 0,0,2.0686,L1,no-change,cue,1,exp1
 5864,1,0.8035,L1,change,cue,23,exp1
 5863,1,0.7893,L1,no-change,cue,23,exp1
